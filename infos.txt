@@ -190,3 +190,7 @@ const categoria = idade >= 18 ? "Adulto" : "Juvenil"
 Se idade for maior ou igual a 18, atribui "Adulto"; caso contrário, "Juvenil".
 
 return serve para evitar reescrever a mesma coisa diversas vezes
+
+git add .
+git commit -m ""
+git push
