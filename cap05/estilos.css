@@ -1,0 +1,11 @@
+img.normal {float: left; height: 300px; width: 300px;}
+img.alta {float: left; height: 420pc; width: 300px;}
+h1 {border-bottom-style: 1.2em;}
+
+/*
+criamos novas regras para a estilização dos elementos,
+como alguns elementos vao ocupar mais de uma linha nas respostas,
+definimos duas regras para imagens, alta e normal
+para indicar qual vamos utilizar, precisamos uar o elemento:
+class="" na tag correspondente.
+*/

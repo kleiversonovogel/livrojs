@@ -194,3 +194,16 @@ return serve para evitar reescrever a mesma coisa diversas vezes
 git add .
 git commit -m ""
 git push
+
+repetiçoes
+for (let i = 1; i <= 10; i = i + 1) {...}
+
+    let i = 1;
+    // declaração do valor inicial p/ var de controle
+
+    i <= 10;
+    // condição realizada no inicio e apos cada incremento da var se true
+    se verdadeira, continua
+
+    i = i + 1
+    incrementoou decremento da var de controle realizada apos 1° loop
